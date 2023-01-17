@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ùŠ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§Í…¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ—Œšıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÉÂûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“¢™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¡‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŒ¼½øÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Â¥öİ
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(»ßëµ8‘›ÖÜ0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Âÿâ…8’›ÖÜ0
+…
+java:S11577"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(×­èâüÿÿÿÿ8„Õ×Ü0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(’…¼Æ8†Õ×Ü0
